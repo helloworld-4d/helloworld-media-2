@@ -1,0 +1,165 @@
+{
+  "videos": [
+    {
+      "source_path": "assets/videos/describe-scene-demo.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/describe-scene-demo.mp4",
+      "bytes": 98547502,
+      "sha256": "sha256:dcf5cda3a65f1d4c8b4d0e00f4039f99f09fbf79637e70ed010abeade0bfbb18",
+      "original_retained": true
+    },
+    {
+      "source_path": "assets/real/single/long-additional-05-surround.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/long-additional-05-surround.mp4",
+      "bytes": 64981045,
+      "sha256": "sha256:acf940cbf37581aa47d2955deab225471c0f1b9af8024fce5e7b85b75c1aac72",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/real/single/distill-lane-dmd.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/distill-lane-dmd.mp4",
+      "bytes": 41873589,
+      "sha256": "sha256:2b1b048d8f859a60fed6e686a450653456fca46fe0577779eb75c8ff1ce06b5a",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/real/single/distill-lane-teacher.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/distill-lane-teacher.mp4",
+      "bytes": 37515936,
+      "sha256": "sha256:41f339b4a9eb8dd75976c9c38627c99700fbadc5dfc038e81ce47f9f0b27f935",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/real/single/special-traffic.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/special-traffic.mp4",
+      "bytes": 34825571,
+      "sha256": "sha256:559b275267964844692d83fbc3f13c97975392467a9e7f62c9bc5aad63c5a48a",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/real/single/special-ebike.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/special-ebike.mp4",
+      "bytes": 29578631,
+      "sha256": "sha256:6b40cfb6dc6116ef6c0ed019750114fa43b14800657721354ea6b1d1ca1318bd",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/real/single/env-sunny.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/env-sunny.mp4",
+      "bytes": 28376620,
+      "sha256": "sha256:3b8b2146aaa3bd48b89a79dc15f781f609b3efcba395034dc3a4573e04b32e57",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/real/single/env-golden-hour.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/env-golden-hour.mp4",
+      "bytes": 27303879,
+      "sha256": "sha256:9bdb2d30f0c4247c03cf70418c9ea0e6d3dff7e102941c54b28350a177b0949d",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/real/single/env-overcast.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/env-overcast.mp4",
+      "bytes": 25462963,
+      "sha256": "sha256:5279ca52387afdbfc5bcc3b19dc78f6570053c7e809079078425babfdb7c75e8",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/real/single/special-construction.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/special-construction.mp4",
+      "bytes": 25174224,
+      "sha256": "sha256:eb14346ea3b5ee3aa219661c98d01b463a4fb2e7e0381a8641553a23256c3921",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/real/single/env-light-rain.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/env-light-rain.mp4",
+      "bytes": 23956418,
+      "sha256": "sha256:0989efd4e1305a1a53a6d543fcd54e205735054df6da5331dcd5af6273f41a73",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/videos/layout-edit-v2-07.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/layout-20260925/layout-edit-v2-07.mp4",
+      "bytes": 23917036,
+      "sha256": "sha256:12bc76d51f602d4e1f438ad722b6d09947e1d61480efadcc2e28890f45723cbc",
+      "original_retained": true
+    },
+    {
+      "source_path": "assets/real/single/pose-right-future.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/pose-right-future.mp4",
+      "bytes": 23746930,
+      "sha256": "sha256:3d18dae56854a5b5d4be91e8ba036cbba745854f5b431e3ec9b96dfc21aa7872",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/videos/layout-edit-v2-09.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/layout-20260925/layout-edit-v2-09.mp4",
+      "bytes": 23233783,
+      "sha256": "sha256:9ed361c064fa364a646e52a44d22dcc4b0a8490fbbc8a04b3239be28b1018e07",
+      "original_retained": true
+    },
+    {
+      "source_path": "assets/videos/layout-edit-v2-08.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/layout-20260925/layout-edit-v2-08.mp4",
+      "bytes": 22956181,
+      "sha256": "sha256:c05415564a0425b572f7db2477ccae26669f06d72d68d2ae3baa7b8ef5a599d4",
+      "original_retained": true
+    },
+    {
+      "source_path": "assets/real/single/env-blue-hour.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/env-blue-hour.mp4",
+      "bytes": 19339503,
+      "sha256": "sha256:c163920ccdc554f28c7d9686443a19cedad43fa4a7d84a41f23a9a5c6f940af9",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/real/single/distill-turn-teacher.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/distill-turn-teacher.mp4",
+      "bytes": 19083433,
+      "sha256": "sha256:006f09e1583a9c729e32f9b0df20dbb3bab68228e2dc1f41648493ee0c93b96a",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/real/single/env-rainy-night.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/env-rainy-night.mp4",
+      "bytes": 17745048,
+      "sha256": "sha256:c7af64d06f1f470b63ee6c27cea667ccfb7c7d1d8ccc98e5f5012a08f451944b",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/videos/layout-edit-v2-04.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/layout-20260925/layout-edit-v2-04.mp4",
+      "bytes": 15394511,
+      "sha256": "sha256:1a63dc3d07459d8545adc991f5a3efe775df9e276a0116ac8c022f953403ae8b",
+      "original_retained": true
+    },
+    {
+      "source_path": "assets/real/single/pose-lane-left-future.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/pose-lane-left-future.mp4",
+      "bytes": 15283247,
+      "sha256": "sha256:b1042927c6d997196b537ccec0066f0c1a0481d4c2a640828f14aebdcb58bad7",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/videos/0923-v1-gt_helloworld_exhibition_8s.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/0923-v1-gt_helloworld_exhibition_8s.mp4",
+      "bytes": 12617071,
+      "sha256": "sha256:74a5b9e0c4c4439e0a11aeafe375798a05d2801ec9b1b9c34aea16423d11f7a3",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/real/lidar/wx/snow.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/snow.mp4",
+      "bytes": 3847182,
+      "sha256": "sha256:56d4428163841e57eda5a218392cd809aba946f7d71080fcd6fc917ba78ac533",
+      "original_retained": false
+    },
+    {
+      "source_path": "assets/real/lidar/wx/sunset.mp4",
+      "url": "https://github.com/helloworld-4d/helloworld-4d.github.io/releases/download/media-20260923/sunset.mp4",
+      "bytes": 2099281,
+      "sha256": "sha256:18e7aeeb4f381678a55db664c5df5233d35a094e229b8ef26f869bd460137515",
+      "original_retained": false
+    }
+  ]
+}
